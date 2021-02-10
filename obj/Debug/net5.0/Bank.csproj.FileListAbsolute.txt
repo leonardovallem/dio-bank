@@ -1,0 +1,16 @@
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/Bank
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/Bank.deps.json
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/Bank.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/ref/Bank.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/bin/Debug/net5.0/Bank.pdb
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/ref/Bank.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.pdb
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
